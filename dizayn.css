@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(58, 58, 58);
+    padding: 15px 0px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+div {
+    background-color: rgb(212, 212, 212);
+    height: 600px;
+}
+
+div h2 {
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+}
+a {
+    color: red
+}
+
+.div1 {
+    float: left;
+    width: 15%;
+}   
+p {
+    font-size: 20px;
+}
+.div2 {
+    float: left;
+    width: 40%
+}
+ul {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.div3 {
+    float: right;
+    width: 35%;
+}
